@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -524,24 +524,6 @@ text-align: center;
 }
 
 
-@media(max-width:541){
-
-header{
-    padding: 12px 20px;
-
-}
-.logo{
-    font-size: 0.5em;
-}
-.up a { 
-    font-size: 0.5em;
-    
-}
-.main {
-    font-size: 0.5em;
-}
-}
-}
 </body>
 </html>
 
